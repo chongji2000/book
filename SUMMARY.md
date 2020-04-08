@@ -23,5 +23,9 @@
 
 * LeetCode
     * 目录题
-       * [twoPlus](matcher/README.md)
+       * [twoPlus](LeetCode/root/oneClass.md)
     * 笔记
+      * [排序](LeetCode/笔记/排序.md)
+      * [极客笔记](LeetCode/笔记/极客笔记.md)
+      * [算法知识点](LeetCode/笔记/算法知识点.md)
+      * [算法题](LeetCode/笔记/算法题.md)
